@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'dunefskychadwick.github.io'
+url:              dunefskychadwick.github.io
 #baseurl:          '/dunefskychadwick.github.io'
 rss:              RSS
 
