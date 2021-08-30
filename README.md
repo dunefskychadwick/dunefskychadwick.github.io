@@ -1,31 +1,28 @@
-# academic
+<p align="right">
+    <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/pmarsceill/just-the-docs/actions?query=workflow%3A%22Master+branch+CI%22"><img src="https://github.com/pmarsceill/just-the-docs/workflows/Master%20branch%20CI/badge.svg" alt="Build status"></a>
+</p>
+<br><br>
+<p align="center">
+    <h1 align="center">Just the Docs</h1>
+    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
+    <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
+    <br><br><br>
+</p>
 
-### A Jekyll theme for academia
-
-![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
-
-A Jekyll theme designed for academia, although you can use it for almost any other purpose as well:
-
-* Showcase your research interests, publications, your curriculum vitae, the people in your research group, and your contact information.
-
-* Manage courses that you are teaching.
-
-* Provide updates to your students and faulty.
+![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
 
 ## Installation
 
-### Ruby Gem Method
-
-Add this line to your Jekyll site's `Gemfile`:
+Add this line to your Jekyll site's Gemfile:
 
 ```ruby
-gem "academic-jekyll-theme"
+gem "just-the-docs"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: academic-jekyll-theme
+theme: just-the-docs
 ```
 
 And then execute:
@@ -34,46 +31,42 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install academic-jekyll-theme
+    $ gem install just-the-docs
+
+Alternatively, you can run it inside Docker while developing your site
+
+    $ docker-compose up
 
 ## Usage
 
-### Layouts
-
-The following sections describe usage instructions for this Jekyll theme,including available layouts, includes, sass and/or assets.
-
-#### Home
-
-The `_layouts/home.html` layout defines the home page for this theme. An introduction to your research group or to yourself can be provided, along with a list of featured publications. There is also a section for providing any updates through posts placed in the `_posts` directory.
-
-#### People
-
-The `_layouts/people.html` layout can be used to showcase and describe people in your research group. People are defined in the `_data/settings.yml` file, and markdown pages for each person with the `_layouts/page.html` layout can be placed in the `people` directory.
-
-#### Publications
-
-The `_layouts/publications.html` layout can be used to showcase selected publications, or the entire catalogue of publications. Direct links to the paper can be used, or a PDF copy of the paper can be served. Publications are defined in the `_data/publications.yml` file, and any PDF files that are served can be placed in the `publications` directory.
-
-#### Courses
-
-The `_layouts/courses.html` layout can be used to showcase courses that were taught in the past or are currently being taught. Courses are defined in the `_data/settings.yml` file, and markdown pages for each course with the `_layouts/page.html` layout can be placed in the `courses` directory. Related course material, such as PDF files, can also be placed in the `courses` directory in a subdirectory with the same name as the corresponding course.
-
-#### CV
-
-The `_layouts/cv.html` layout can be used to showcase a curriculum vitae. The sections of the cv are defined in the `_data/cv` directory, where each section has its own `<section>.yml` file.
-
-#### Contact
-
-The `_layouts/contact.html` layout can be used to provide contact information for the research group or the people that lead the research group. Contact information is defined in the `_data/settings.yml` file.
+[View the documentation](https://pmarsceill.github.io/just-the-docs/) for usage information.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/LeNPaul/academic. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsceill/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+### Submitting code changes:
+
+- Open a [Pull Request](https://github.com/pmarsceill/just-the-docs/pulls)
+- Ensure all CI tests pass
+- Await code review
+- Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
+
+### Design and development principles of this theme:
+
+1. As few dependencies as possible
+2. No build script needed
+3. First class mobile experience
+4. Make the content shine
 
 ## Development
 
-To set up your environment to develop this theme, run `bundle install`, then run `bundle exec jekyll serve`, and open your browser at `http://localhost:4000`. This starts a Jekyll server using this theme. Make changes to the pages, documents, data, etc. like normal to test this theme's contents. As you make modifications to this theme the site will regenerate and you should see the changes in the browser after a refresh.
+To set up your environment to develop this theme, run `bundle install`.
+
+Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+
+When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
