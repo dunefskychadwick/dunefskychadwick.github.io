@@ -17,9 +17,14 @@ navbar-links:
 
   Program Learning Outcomes:
     - PLO 1: "PLO1"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - PLO 2: "PLO2"
+    - PLO 3: "PLO3"
+    - PLO 4: "PLO4"
+    - PLO 5: "PLO5"
+    - PLO 6: "PLO6"
+    - PLO 7: "PLO7"
   Resume: "resume"
-  CV: "CV"
+  Cover Letter: "coverletter"
 
 # --- Logo --- #
 
