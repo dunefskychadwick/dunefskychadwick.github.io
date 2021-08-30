@@ -18,8 +18,8 @@ navbar-links:
   Resources:
     - PLO 1: "PLO1"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  About Me: "aboutme"
-  Author's home: "https://deanattali.com"
+  Resume: "resume"
+  CV: "CV"
 
 # --- Logo --- #
 
