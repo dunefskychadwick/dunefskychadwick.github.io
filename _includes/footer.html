@@ -15,7 +15,6 @@
         {{ site.author }}
         &nbsp;&bull;&nbsp;
       {% endif %}
-      {{ site.time | date: '%Y' }}
 
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
@@ -30,7 +29,7 @@
           <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
         {% endif %}
       {% endif%}
-    
+
       </div>
     </div>
   </div>
