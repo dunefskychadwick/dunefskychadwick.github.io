@@ -4,7 +4,6 @@ title: Five Year Plan
 subtitle: 5-7 sentences - big picture.
 ---
 
------------------------------------------------------
 
 **Year 1: 2021**
 
