@@ -9,6 +9,6 @@ subtitle: Insert 3-5 sentences from the 5 year plan when finished.
 | Goals | Strategies | Resources |
 | :------ |:--- | :--- |
 | Complete my practicum with Duke University’s AUX Department | As of October 2021, I am halfway complete with my practicum. I will continue to seek support both from my practicum supervisor and Dr. Depolt to ensure that I create two artifacts by the end of the practicum. | NCLA, Wake County Public Libraries, Duke University Libraries, Dr. Depolt, Dr. Bird |
-| Ten | Eleven | Nine |
+| Attend the North Carolina Library Association Biennial Conference (NCLA) as a student | My manager at my internship with Wake County Public Libraries paid for my conference fee this year. I intend on attending the virtual conference on October 15th and network with fellow librarians. |Nine|
 | Seven | Eight | Six |
 | Two | Three | One |
