@@ -42,8 +42,9 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
   </tr>
   <tr>
     <td>Present at the Society of North Carolina Archivists’ (SNCA) 2022 conference </td>
-    <td>In my Special Collections class at UNCG, I wrote a paper on the influence of power dynamics in organizational memory. I intend on presenting this paper at the SNCA 2022 conference. I will reach out to Dr. Post, my professor for this course, for guidance and support through the process.  </tr>
+    <td>In my Special Collections class at UNCG, I wrote a paper on the influence of power dynamics in organizational memory. I intend on presenting this paper at the SNCA 2022 conference. I will reach out to Dr. Post, my professor for this course, for guidance and support through the process.</td>
     <td>SNCA, Dr. Post</td>
+  </tr>
   <tr>
     <td> Either continue working with WCPL as an official library assistant or locate my first Librarian 1 position at a public library.<td>
     <td>In August 2022, I will talk to my manager about transitioning from an intern to a library assistant. If I am not offered this position, I will apply for Librarian 1 positions nationally. For the latter, I will seek advice and support from my manager at WCPL as I shift into a Librarian 1 position.  For this five-year plan, I will assume that I will be looking for Librarian 1 positions at this time. </td>
