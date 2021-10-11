@@ -14,6 +14,7 @@ subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 | Attend the North Carolina Library Association Biennial Conference (NCLA) as a student | My manager at my internship with Wake County Public Libraries paid for my conference fee this year. I intend on attending the virtual conference on October 15th and network with fellow librarians. |NCLA, Wake County Public Libraries|
 | Graduate from the University of North Carolina at Greensboro (UNCG) with my MLIS | As of October 2021, I am halfway through my last semester. I will continue to seek support from my professors and classmates to ensure that I am able to complete my coursework and capstone by December, 2021. | Dr. Depolt, Dr. Bird |
 
+
 -----------------------------------------------------
 
 **Year 2: 2022**
