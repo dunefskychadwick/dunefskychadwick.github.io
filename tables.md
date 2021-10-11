@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: PLO 7
 subtitle: Communicate and collaborate with colleagues and communities. [Communication and Collaboration]
 ---
