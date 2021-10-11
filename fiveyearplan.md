@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Five Year Plan
 subtitle: Insert 3-5 sentences when finished.
 ---
