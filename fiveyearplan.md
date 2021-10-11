@@ -13,7 +13,7 @@ subtitle: Insert 3-5 sentences when finished.
 | Graduate from the University of North Carolina at Greensboro (UNCG) with my MLIS | As of October 2021, I am halfway through my last semester. I will continue to seek support from my professors and classmates to ensure that I am able to complete my coursework and capstone by December, 2021. | Dr. Depolt, Dr. Bird |
 
 
------------------------------------------------------
+**-----------------------------------------------------**
 
 **Year 2: 2022**
 
