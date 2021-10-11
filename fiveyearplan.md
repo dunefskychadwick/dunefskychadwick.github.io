@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Five Year Plan
-subtitle: 5-7 sentence - big picture.
+subtitle: 5-7 sentences - big picture.
 ---
 
 -----------------------------------------------------
