@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Five Year Plan
-subtitle: Insert 3-5 sentences from the 5 year plan when finished.
+subtitle: Insert 3-5 sentences when finished.
 ---
 
 **Year 1: 2021**
