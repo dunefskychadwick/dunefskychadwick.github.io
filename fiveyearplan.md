@@ -3,9 +3,15 @@ layout: post
 title: Five Year Plan
 subtitle:
 ---
+**5 Year Goal - Find a Librarian 2 Position:** I am writing this five year plan in October, 2021. At this time, I am in my last semester at UNCG’s MLIS program.
 
+In December, 2021, I will graduate and will continue working as an intern at WCPL.
 
-**5 Year Goal - Find a Librarian 2 Position:** I am writing this five year plan in October, 2021. At this time, I am in my last semester at UNCG’s MLIS program. In December, 2021, I will graduate and will continue working as an intern at WCPL. After I complete my internship, I will transition into a Librarian 1 role. In the next five years, I would like to apply my Librarian 1 role towards advocating for LGTBQIA+ issues, local history topics, and digital literacy. At the end of these five years, I will transition to a Librarian 2 position and will continue working on these issues for the entirety of my career as a librarian. The plans in place for this five year plan will provide a framework for my future career and will provide long-term collaborations and partnerships with both fellow library staff and with local communities and organizations.  
+After I complete my internship, I will transition into a Librarian 1 role. In the next five years, I would like to apply my Librarian 1 role towards advocating for LGTBQIA+ issues, local history topics, and digital literacy.
+
+At the end of these five years, I will transition to a Librarian 2 position and will continue working on these issues for the entirety of my career as a librarian.
+
+The plans in place for this five year plan will provide a framework for my future career and will provide long-term collaborations and partnerships with both fellow library staff and with local communities and organizations.  
 -----------------------------------------------------
 
 **Steps to Complete My Five Year Plan**
