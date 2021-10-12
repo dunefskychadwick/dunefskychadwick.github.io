@@ -1,8 +1,15 @@
 ---
 layout: post
 title: Five Year Plan
-subtitle: I wrote this five year plan in October, 2021. Huh?
+subtitle: I am writing this five year plan in October, 2021. At this time, I am in my last semester at UNCG’s MLIS program. In December, 2021, I will graduate and will continue working as an intern at WCPL. After I complete my internship, I will transition into a Librarian 1 role. In the next five years, I would like to apply my Librarian 1 role towards advocating for LGTBQIA+ issues, local history topics, and digital literacy. At the end of these five years, I will transition to a Librarian 2 position and will continue working on these issues for the entirety of my career as a librarian. The plans in place for this five year plan will provide a framework for my future career and will provide long-term collaborations and partnerships with both fellow library staff and with local communities and organizations.  
 ---
+**Steps to Complete My Five Year Plan**
+1. Complete my internship at WCPL
+2. Transition into a Librarian 1 role.
+3. Create partnerships with the local community.
+4. Bring local history and LBGTQIA+ issues into the public library that I will be working at.
+5. Transition into a Librarian 2 role.
+
 -----------------------------------------------------
 **Acronym List:** AUX (Assessment & User Experience), INALJ (I Need a Library Job),   MLIS (Master of Library and Information Science), NCLA (North Carolina Library Association), SNCA (Society of North Carolina Archivists), UNCG (University of North Carolina at Greensboro), WCPL (Wake County Public Libraries)  
 **Note:** Words in brackets are unknown factors at this time.
@@ -16,7 +23,6 @@ subtitle: I wrote this five year plan in October, 2021. Huh?
 | Complete my practicum with Duke University’s AUX Department| As of October 2021, I am halfway complete with my practicum. I will continue to seek support both from my practicum supervisor and Dr. Depolt to ensure that I create two artifacts by the end of the practicum. | Duke University Libraries, Dr. Depolt, Dr. Bird | Two artifacts |
 | Attend the NCLA as a student | My manager at my internship with WCPL paid for my conference fee this year. I intend on attending the virtual conference on October 15th and network with fellow librarians. | NCLA, WCPL | Informational interviews scheduled |
 | Graduate from UNCG with my MLIS | As of October 2021, I am halfway through my last semester. I will continue to seek support from my professors and classmates to ensure that I am able to complete my coursework and capstone by December, 2021. | Dr. Depolt, Dr. Bird | MLIS |
-
 
 -----------------------------------------------------
 
