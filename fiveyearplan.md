@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Five Year Plan
-subtitle: I wrote this five year plan in October, 2021.
+subtitle: I wrote this five year plan in October, 2021. Huh?
 ---
 -----------------------------------------------------
 **Acronym List:** AUX (Assessment & User Experience), INALJ (I Need a Library Job),   MLIS (Master of Library and Information Science), NCLA (North Carolina Library Association), SNCA (Society of North Carolina Archivists), UNCG (University of North Carolina at Greensboro), WCPL (Wake County Public Libraries)  
