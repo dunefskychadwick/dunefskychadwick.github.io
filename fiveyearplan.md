@@ -29,7 +29,7 @@ The plans in place for this five year plan will provide a framework for my futur
 
 -----------------------------------------------------
 **Acronym List:** AUX (Assessment & User Experience), INALJ (I Need a Library Job),   MLIS (Master of Library and Information Science), NCLA (North Carolina Library Association), SNCA (Society of North Carolina Archivists), UNCG (University of North Carolina at Greensboro), WCPL (Wake County Public Libraries)  
-**Note:** Words in brackets are unknown factors at this time
+**Note:** Words in brackets are unknown factors at this time.
 
 -----------------------------------------------------
 
