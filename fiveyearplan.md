@@ -11,7 +11,7 @@ subtitle: I wrote this five year plan in October, 2021. Huh?
 
 **Year 1: 2021**
 
-| Goals | Strategies | Resources |Evidence of Completion |
+| Goals | Strategies | Resources | Evidence of Completion |
 | :------------- |:--- | :--- | :--- |
 | As of October 2021, I am halfway complete with my practicum. I will continue to seek support both from my practicum supervisor and Dr. Depolt to ensure that I create two artifacts by the end of the practicum. | Duke University Libraries, Dr. Depolt, Dr. Bird | Two artifacts |
 | Attend the NCLA as a student | My manager at my internship with WCPL paid for my conference fee this year. I intend on attending the virtual conference on October 15th and network with fellow librarians. | NCLA, WCPL | Informational interviews scheduled |
