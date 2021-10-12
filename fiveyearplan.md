@@ -5,7 +5,8 @@ subtitle: 5-7 sentences - big picture.
 ---
 -----------------------------------------------------
 **Acronym List:** AUX (Assessment & User Experience), MLIS (Master of Library and Information Science), NCLA (North Carolina Library Association), SNCA (Society of North Carolina Archivists), UNCG (University of North Carolina at Greensboro), WCPL (Wake County Public Libraries)  
-**Note:** Words in brackets are unknown factors at this time. 
+**Note:** Words in brackets are unknown factors at this time.
+
 -----------------------------------------------------
 
 **Year 1: 2021**
