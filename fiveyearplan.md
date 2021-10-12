@@ -3,6 +3,7 @@ layout: post
 title: Five Year Plan
 subtitle: 5-7 sentences - big picture.
 ---
+-----------------------------------------------------
 **Acronym List:** AUX (Assessment & User Experience), MLIS (Master of Library and Information Science), NCLA (North Carolina Library Association), SNCA (Society of North Carolina Archivists), WCPL (Wake County Public Libraries)  
 -----------------------------------------------------
 
