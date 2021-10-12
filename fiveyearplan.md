@@ -7,7 +7,7 @@ subtitle: I am writing this five year plan in October, 2021. At this time, I am 
 -----------------------------------------------------
 
 **Steps to Complete My Five Year Plan**
-1. Complete my internship at WCPL
+1. Complete my internship at WCPL.
 2. Transition into a Librarian 1 role.
 3. Create partnerships with the local community.
 4. Bring local history and LBGTQIA+ issues into the public library that I will be working at.
