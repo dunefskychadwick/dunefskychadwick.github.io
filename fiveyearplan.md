@@ -6,7 +6,9 @@ subtitle:
 
 -----------------------------------------------------
 
-**5 Year Goal - Find a Librarian 2 Position:** I am writing this five year plan in October, 2021. At this time, I am in my last semester in UNCG’s MLIS program.
+**5 Year Goal - Find a Librarian 2 Position**
+
+I am writing this five year plan in October, 2021. At this time, I am in my last semester in UNCG’s MLIS program.
 
 In December, 2021, I will graduate and will continue working as an intern at WCPL.
 
