@@ -35,7 +35,7 @@ The plans in place for this five year plan will provide a framework for my futur
 
 **Year 1: 2021**
 
-| Goals &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Strategies | Resources | Evidence of Completion | Timeline |
+| Goals &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Strategies | Resources | Evidence of Completion | Timeline |
 | :------------- |:--- | :--- | :--- || :--- |
 | Complete my practicum with Duke University’s AUX Department| As of October 2021, I am halfway complete with my practicum. I will continue to seek support both from my practicum supervisor and Dr. Depolt to ensure that I create two artifacts by the end of the practicum. | Duke University Libraries, Dr. Depolt, Dr. Bird | Two artifacts | August - December |
 | Attend the NCLA as a student | My manager at my internship with WCPL paid for my conference fee this year. I intend on attending the virtual conference on October 15th and network with fellow librarians. | NCLA, WCPL | Informational interviews scheduled | October |
