@@ -3,7 +3,15 @@ layout: base
 title: PLO 7
 subtitle: Communicate and collaborate with colleagues and communities. [Communication and Collaboration]
 ---
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
 
+<h1>This is a heading</h1>
 <h2>Year 1: 2021</h2>
 
 <table style="width:100%">
