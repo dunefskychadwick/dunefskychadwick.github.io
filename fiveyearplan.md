@@ -81,7 +81,7 @@ The plans in place for this five year plan will provide a framework for my futur
     <th>Timeline</th>
   </tr>
   <tr>
-    <td>Complete my internship with Wake County Public Libraries (WCPL)</td>
+    <td>Complete my internship with WCPL</td>
     <td>My internship will conclude in May, 2022. Before my internship ends, I plan on seeking more opportunities to expand my skill set for future public library jobs. I will ask my manager and WCPL librarians about programming and shadowing opportunities. I will also look for opportunities to do informational interviews so I am better prepared to transition into a librarian role when my internship ends.</td>
     <td>WCPL</td>
     <td>Experience as a library assistant</td>
