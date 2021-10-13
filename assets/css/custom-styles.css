@@ -4,14 +4,18 @@ table {
 <style>
 table th:first-of-type {
     width: 30%;
+    background-color: #ffffff;
 }
 table th:nth-of-type(2) {
     width: 60%;
+    background-color: #ff5733;
 }
 table th:nth-of-type(3) {
     width: 5%;
+    background-color: #ffffff;
 }
 table th:nth-of-type(4) {
     width: 5%;
+    background-color: #ff5733;
 }
 </style>
