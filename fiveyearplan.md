@@ -131,7 +131,7 @@ The plans in place for this five year plan will provide a framework for my futur
   </tr>
   <tr>
     <td>Join the [state]’s public library association and become an active member of a committee</td>
-    <td>I will join my state’s public library association and become an active member. I will become involved in advocating for my state’s public libraries and advocating for librarianship. I will also become a mentor to new librarians, through this organization.</td>
+    <td>I will join my state’s public library association and become an active member. I will become involved in advocating for libraries within my state. I will also become a mentor to new librarians.</td>
     <td>[State]’s public library association</td>
     <td>A public library association membership, a title in a committee</td>
     <td>January - March</td>
