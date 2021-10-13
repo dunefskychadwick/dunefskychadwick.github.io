@@ -6,7 +6,6 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
 
 <h2>Year 1: 2021</h2>
 
-<table style="width:100%">
   <tr>
     <th>Goals</th>
     <th>Strategies</th>
@@ -40,7 +39,6 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
 ----------------------------------------
 
 <h2>Year 2: 2022</h2>
-<table style="width:100%">
   <tr>
     <th>Goals</th>
     <th>Strategies</th>
@@ -75,7 +73,6 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
 
 <h2>Year 3: 2023</h2>
 
-<table style="width:100%">
   <tr>
     <th>Goals</th>
     <th>Strategies</th>
