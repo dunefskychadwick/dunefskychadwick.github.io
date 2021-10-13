@@ -96,7 +96,7 @@ The plans in place for this five year plan will provide a framework for my futur
     <td>April</td>
   </tr>
   <tr>
-    <td>Locate my first Librarian 1 position at a public library</td>
+    <td>Apply for Librarian 1 positions</td>
     <td>After my WCPL internship ends in August, I will apply for Librarian 1 positions nationally. I will seek support from my manager at WCPL as I transition from an intern to a Librarian 1.</td>
     <td>WCPL, <a href="https://inalj.com/">inalj</a></td>
     <td>A Librarian 1 position</td>
