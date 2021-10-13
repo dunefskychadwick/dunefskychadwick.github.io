@@ -4,6 +4,37 @@ title: PLO 7
 subtitle: Communicate and collaborate with colleagues and communities. [Communication and Collaboration]
 ---
 
+
+-----------------------------------------------------
+
+**5 Year Goal - Find a Librarian 2 Position**
+
+I am writing this five year plan in October, 2021. At this time, I am in my last semester at UNCG’s MLIS program.
+
+In December, 2021, I will graduate and will continue working as an intern at WCPL.
+
+After I complete my internship, I will transition into a Librarian 1 role. In the next five years, I would like to apply my Librarian 1 role towards advocating for LGTBQIA+ issues, local history topics, and digital literacy.
+
+At the end of these five years, I will transition to a Librarian 2 position and will continue working on these issues for the entirety of my career as a librarian.
+
+The plans in place for this five year plan will provide a framework for my future career and will provide long-term collaborations and partnerships with both fellow library staff and with local communities and organizations.  
+
+-----------------------------------------------------
+
+**Steps to Complete My Five Year Plan**
+1. Complete my internship at WCPL.
+2. Transition into a Librarian 1 role.
+3. Create partnerships with the local community.
+4. Bring local history and LBGTQIA+ issues into the public library that I will be working at.
+5. Transition into a Librarian 2 role.
+
+-----------------------------------------------------
+
+**Acronym List:** AUX (Assessment & User Experience), INALJ (I Need a Library Job),   MLIS (Master of Library and Information Science), NCLA (North Carolina Library Association), SNCA (Society of North Carolina Archivists), UNCG (University of North Carolina at Greensboro), WCPL (Wake County Public Libraries)  
+**Note:** Words in brackets are unknown factors at this time.
+
+-----------------------------------------------------
+
 <h2>Year 1: 2021</h2>
 
 <table style="width:100%">
@@ -99,7 +130,7 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
   </tr>
   <tr>
     <td>Join the [state]’s public library association and become an active member of a committee</td>
-    <td>As of October 2021, I am halfway complete with my practicum. I will continue to seek support both from my practicum supervisor and Dr. Depolt to ensure that I create two artifacts by the end of the practicum.</td>
+    <td>I will join my state’s public library association and become an active member. I will become involved in advocating for my state’s public libraries and advocating for librarianship. I will also become a mentor to new librarians, through this organization.</td>
     <td>[State]’s public library association</td>
     <td>A public library association membership, a title in a committee</td>
     <td>January - March</td>
