@@ -188,11 +188,11 @@ The plans in place for this five year plan will provide a framework for my futur
     <th>Timeline</th>
   </tr>
   <tr>
-    <td>Investigate [topic] and publish a journal article in [journal name]</td>
-    <td>In my second year as a Librarian 1, I will have identified trends and patterns in my public library. I will use these trends and patterns to write a journal article, to officially be submitted to a publication. This article will also be an opportunity to present at my state’s public library association. I will seek support from both my public library and my state’s public library association in writing this article. I might look for a co-author and use this opportunity to segue into writing an article on trends within public libraries nationally.</td>
-    <td>[State]’s public library association, [Library’s Name], [Co-Author], [Journal Publication]</td>
-    <td>A published journal article</td>
-    <td>January - August</td>
+    <td>Create workshops on digital literacy, to be used both in my public library and libraries nationally</td>
+    <td>As a continuation from the courses I enrolled in 2023, I will create workshops on educating patrons on digital literacy. I will also use this opportunity to create a framework for these workshops that can be used across public libraries nationwide. I will seek partnerships and collaboration with other library institutions to ensure that these workshops are designed well.</td>
+    <td>[Library Name], collaboration with other libraries.</td>
+    <td>Digital literacy workshops</td>
+    <td>January - December</td>
   </tr>
   <tr>
     <td>Partner with the local community and design a library exhibit</td>
