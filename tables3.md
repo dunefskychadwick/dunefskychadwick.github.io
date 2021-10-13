@@ -207,7 +207,7 @@ The plans in place for this five year plan will provide a framework for my futur
   <tr>
     <td>Apply for Librarian 2 positions</td>
     <td>After cross training in other departments, I will begin applying for Librarian 2 positions both within my system and libraries nationwide. I will seek support from my coworkers and other departments as I transition into this new managerial position.</td>
-    <td>[Library Name],<a href="https://inalj.com/">inalj</a></td>
+    <td>[Library Name], <a href="https://inalj.com/">inalj</a></td>
     <td>A Librarian 2 position</td>
     <td>December 2025 - March 2026</td>
   </tr>
