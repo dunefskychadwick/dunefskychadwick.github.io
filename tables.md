@@ -99,7 +99,7 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
   </tr>
   <tr>
     <td>Join the [state]’s public library association and become an active member of a committee</td>
-    <td>If my job search in 2022 was successful, I will be working as a Librarian 1 at this time. I will use my first year as a Librarian 1 to get settled in my new town and new position. I will look for support from my coworkers and patrons. In my first year as a Librarian 1, I will begin drafting a list of ideas for programming and partnerships with the local community.</td>
+    <td>As of October 2021, I am halfway complete with my practicum. I will continue to seek support both from my practicum supervisor and Dr. Depolt to ensure that I create two artifacts by the end of the practicum.</td>
     <td>[State]’s public library association</td>
     <td>A public library association membership, a title in a committee</td>
     <td>January - March</td>
