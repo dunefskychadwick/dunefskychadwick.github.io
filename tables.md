@@ -73,6 +73,41 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
 
 ----------------------------------------
 
+<h2>Year 1: 2021</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Goals</th>
+    <th>Strategies</th>
+    <th>Resources</th>
+    <th>Evidence of Completion</th>
+    <th>Timeline</th>
+  </tr>
+  <tr>
+    <td>Complete my practicum with Duke University’s AUX Department.</td>
+    <td>As of October 2021, I am halfway complete with my practicum. I will continue to seek support both from my practicum supervisor and Dr. Depolt to ensure that I create two artifacts by the end of the practicum.</td>
+    <td>Duke University Libraries, Dr. Depolt, Dr. Bird</td>
+    <td>Two artifacts</td>
+    <td>August - December</td>
+  </tr>
+  <tr>
+    <td>Attend the North Carolina Library Association Biennial Conference (NCLA) as a student</td>
+    <td> My manager at my internship with Wake County Public Libraries paid for my conference fee this year. I intend on attending the virtual conference on October 15th and network with fellow librarians.</td>
+    <td>NCLA, Wake County Public Libraries</td>
+    <td> informational interviews scheduled</td>
+    <td>October</td>
+  </tr>
+  <tr>
+    <td>Graduate from the University of North Carolina at Greensboro (UNCG) with my MLIS</td>
+    <td>As of October 2021, I am halfway through my last semester. I will continue to seek support from my professors and classmates to ensure that I am able to complete my coursework and capstone by December, 2021.</td>
+    <td> Dr. Depolt, Dr. Bird</td>
+    <td>MLIS</td>
+    <td>December</td>
+  </tr>
+</table>
+
+----------------------------------------
+
 <h2>Year 3: 2023</h2>
 
 <table style="width:100%">
