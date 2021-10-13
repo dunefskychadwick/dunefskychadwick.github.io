@@ -4,7 +4,7 @@ title: Five Year Plan
 subtitle:
 ---
 
-<h1 align="center"> Five Year Plan </h1>
+<h2 align="center"> Five Year Plan </h2>
 
 -----------------------------------------------------
 
