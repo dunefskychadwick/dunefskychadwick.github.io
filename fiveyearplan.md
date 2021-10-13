@@ -47,7 +47,7 @@ The plans in place for this five year plan will provide a framework for my futur
     <th>Timeline</th>
   </tr>
   <tr>
-    <td>Complete my practicum with Duke University’s AUX Department.</td>
+    <td>Complete my practicum with Duke University’s AUX Department</td>
     <td>As of October 2021, I am halfway complete with my practicum. I will continue to seek support both from my practicum supervisor and Dr. Depolt to ensure that I create two artifacts by the end of the practicum.</td>
     <td>Duke University Libraries, Dr. Depolt, Dr. Bird</td>
     <td>Two artifacts</td>
