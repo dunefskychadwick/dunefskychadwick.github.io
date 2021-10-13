@@ -126,7 +126,7 @@ The plans in place for this five year plan will provide a framework for my futur
     <td>Enroll in a self-paced technology course, using Library Carpentry or the Odin Project</td>
     <td>As of October 2021, I am interested in learning about the intersection of libraries and technology. I would like to use my role as a Librarian 1 to learn how I can apply technology to my new position. To achieve this goal, I will enroll in a self-paced course using Library Carpentry or the Odin Project. Library Carpentry tailors their courses specifically to librarians. The Odin Project focuses more generally on how to write HTML and CSS. These courses might also lead to creating workshops at the library to educate patrons on digital literacy.</td>
     <td>Library Carpentry, The Odin Project, [Library’s Name]</td>
-    <td>A digital portfolio of items created from these courses</td>
+    <td>A digital portfolio of items</td>
     <td>January - May</td>
   </tr>
   <tr>
