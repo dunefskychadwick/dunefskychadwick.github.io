@@ -34,7 +34,7 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
   </tr>
   <tr>
     <td>Two artifacts (two usability tests)</td>
-  <tr>
+  </tr>
 </table>
 
 ----------------------------------------
@@ -68,5 +68,5 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
   </tr>
   <tr>
     <td>Two artifacts (two usability tests)</td>
-  <tr>
+  </tr>
 </table>
