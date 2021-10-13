@@ -73,7 +73,7 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
 
 ----------------------------------------
 
-<h2>Year 1: 2021</h2>
+<h2>Year 3: 2023</h2>
 
 <table style="width:100%">
   <tr>
@@ -84,11 +84,11 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
     <th>Timeline</th>
   </tr>
   <tr>
-    <td>Complete my practicum with Duke University’s AUX Department.</td>
-    <td>As of October 2021, I am halfway complete with my practicum. I will continue to seek support both from my practicum supervisor and Dr. Depolt to ensure that I create two artifacts by the end of the practicum.</td>
-    <td>Duke University Libraries, Dr. Depolt, Dr. Bird</td>
-    <td>Two artifacts</td>
-    <td>August - December</td>
+    <td>Work as a Librarian 1.</td>
+    <td>If my job search in 2022 was successful, I will be working as a Librarian 1 at this time. I will use my first year as a Librarian 1 to get settled in my new town and new position. I will look for support from my coworkers and patrons. In my first year as a Librarian 1, I will begin drafting a list of ideas for programming and partnerships with the local community.</td>
+    <td>[Library’s Name], [Town Name], [Local Organizations]</td>
+    <td>A rough draft of programming ideas, rapport with coworkers</td>
+    <td>January - December</td>
   </tr>
   <tr>
     <td>Attend the North Carolina Library Association Biennial Conference (NCLA) as a student</td>
@@ -107,36 +107,3 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
 </table>
 
 ----------------------------------------
-
-<h2>Year 3: 2023</h2>
-
-<table style="width:100%">
-  <tr>
-    <th>Goals</th>
-    <th>Strategies</th>
-    <th>Resources</th>
-    <th>Evidence of Completion</th>
-    <th>Timeline</th>
-  </tr>
-  <tr>
-    <td>Work as a Librarian 1</td>
-    <td>If my job search in 2022 was successful, I will be working as a Librarian 1 at this time. I will use my first year as a Librarian 1 to get settled in my new town and new position. I will look for support from my coworkers and patrons. In my first year as a Librarian 1, I will begin drafting a list of ideas for programming and partnerships with the local community.</td>
-    <td>Library’s Name, Town Name, Local Organizations</td>
-    <td>A rough draft of programming ideas, rapport with coworkers</td>
-    <td>January - December</td>
-  </tr>
-  <tr>
-    <td>Enroll in a self-paced technology course, using Library Carpentry or the Odin Project</td>
-    <td>As of October 2021, I am interested in learning about the intersection of libraries and technology. I would like to use my role as a Librarian 1 to learn how I can apply technology to my new position. To achieve this goal, I will enroll in a self-paced course using Library Carpentry or the Odin Project. Library Carpentry tailors their courses specifically to librarians. The Odin Project focuses more generally on how to write HTML and CSS. These courses might also lead to creating workshops at the library to educate patrons on digital literacy.</td>
-    <td>Library Carpentry, The Odin Project, Library’s Name</td>
-    <td>A digital portfolio of items</td>
-    <td>January - May</td>
-  </tr>
-  <tr>
-    <td>Join the state’s public library association and become an active member of a committee</td>
-    <td>I will join my state’s public library association and become an active member. I will become involved in advocating for my state’s public libraries and advocating for librarianship. I will also become a mentor to new librarians, through this organization.<td>
-    <td>State’s public library association</td>
-    <td>A public library association membership, a title in a committee</td>
-    <td>January - March</td>
-  </tr>
-</table>
