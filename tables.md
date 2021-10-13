@@ -81,7 +81,7 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
     <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Strategies</th>
     <th>Resources</th>
     <th>Evidence of Completion</th>
-    <th>Timeline</th>
+    <th>Timeline???</th>
   </tr>
   <tr>
     <td>Work as a Librarian 1.</td>
