@@ -18,6 +18,7 @@ table tr th {
   margin: 0;
    padding: 0.375rem 0.8125rem;
 }
+
 table th:first-of-type {
     width: 30%;
 }
@@ -29,6 +30,21 @@ table th:nth-of-type(3) {
 }
 table th:nth-of-type(4) {
     width: 5%;
-    background-color: #00b9ff;
+    background-color: #b200ff;
+}
+
+table tr td {
+  border: 1px solid #cccccc;
+  text-align: left;
+  margin: 0;
+  padding: 0.375rem 0.8125rem;
+}
+table tr th :first-child,
+table tr td :first-child {
+  margin-top: 0;
+}
+table tr th :last-child,
+table tr td :last-child {
+  margin-bottom: 0;
 }
 </style>
