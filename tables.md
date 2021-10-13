@@ -78,7 +78,7 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
 <table style="width:100%">
   <tr>
     <th>Goals</th>
-    <th>Strategies</th>
+    <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Strategies</th>
     <th>Resources</th>
     <th>Evidence of Completion</th>
     <th>Timeline</th>
