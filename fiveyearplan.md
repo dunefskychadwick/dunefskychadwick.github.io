@@ -35,7 +35,7 @@ The plans in place for this five year plan will provide a framework for my futur
 
 **Year 1: 2021**
 
-| Goals | Strategies |<img width=200/>|<img width=500/>| | Resources | Evidence of Completion | Timeline |
+| Goals | Strategies <img width=200/>|<img width=500/> | Resources | Evidence of Completion | Timeline |
 | :------------- |:--- | :--- | :--- || :--- |
 | Complete my practicum with Duke University’s AUX Department| As of October 2021, I am halfway complete with my practicum. I will continue to seek support both from my practicum supervisor and Dr. Depolt to ensure that I create two artifacts by the end of the practicum. | Duke University Libraries, Dr. Depolt, Dr. Bird | Two artifacts | August - December |
 | Attend the NCLA as a student | My manager at my internship with WCPL paid for my conference fee this year. I intend on attending the virtual conference on October 15th and network with fellow librarians. | NCLA, WCPL | Informational interviews scheduled | October |
@@ -45,7 +45,7 @@ The plans in place for this five year plan will provide a framework for my futur
 
 **Year 2: 2022**
 
-| Goals | <div style="width:290px">Strategies</div> | Resources | Evidence of Completion | Timeline |
+| Goals | Strategies | Resources | Evidence of Completion | Timeline |
 | :------------- |:--- | :--- | :--- | :--- |
 | Complete my internship with WCPL | My internship will conclude in May, 2022. I plan on seeking more opportunities to expand my skill set for future public library jobs. I will ask my manager and WCPL librarians about programming and shadowing opportunities. I will also look for opportunities to do informational interviews so I am better prepared to transition into a librarian role when my internship ends. | WCPL | Experience as a library assistant | September 2021 - August 2021 |
 | Present at the SNCA 2022 conference | In my Special Collections class at UNCG, I wrote a paper on the influence of power dynamics in organizational memory. I intend on presenting this paper at the SNCA 2022 conference. I will reach out to Dr. Post, my professor for this course, for guidance and support through the process. | SNCA, Dr. Post | A presentation (a Powerpoint or a physical poster) | April |
