@@ -55,7 +55,7 @@ The plans in place for this five year plan will provide a framework for my futur
   </tr>
   <tr>
     <td>Attend the NCLA as a student</td>
-    <td>My manager at my internship with Wake County Public Libraries paid for my conference fee this year. I will attend the virtual conference on October 15th and network with fellow librarians.</td>
+    <td>My manager at my internship with WCPL paid for my conference fee this year. I will attend the virtual conference on October 15th and network with fellow librarians.</td>
     <td>NCLA, WCPL</td>
     <td> Informational interviews scheduled</td>
     <td>October</td>
