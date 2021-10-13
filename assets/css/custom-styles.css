@@ -20,7 +20,7 @@ table tr th {
 }
 
 table th:first-of-type {
-    width: 30%;
+    width: 25%;
 }
 table th:nth-of-type(2) {
     width: 60%;
@@ -29,6 +29,10 @@ table th:nth-of-type(3) {
     width: 5%;
 }
 table th:nth-of-type(4) {
+    width: 5%;
+    background-color: #ff9e00;
+}
+table th:nth-of-type(5) {
     width: 5%;
     background-color: #ff9e00;
 }
