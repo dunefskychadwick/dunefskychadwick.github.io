@@ -91,11 +91,11 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
     <td>January - December</td>
   </tr>
   <tr>
-    <td>Attend the North Carolina Library Association Biennial Conference (NCLA) as a student</td>
-    <td> My manager at my internship with Wake County Public Libraries paid for my conference fee this year. I intend on attending the virtual conference on October 15th and network with fellow librarians.</td>
-    <td>NCLA, Wake County Public Libraries</td>
-    <td> informational interviews scheduled</td>
-    <td>October</td>
+    <td>Enroll in a self-paced technology course, using Library Carpentry or the Odin Project</td>
+    <td>As of October 2021, I am interested in learning about the intersection of libraries and technology. I would like to use my role as a Librarian 1 to learn how I can apply technology to my new position. To achieve this goal, I will enroll in a self-paced course using Library Carpentry or the Odin Project. Library Carpentry tailors their courses specifically to librarians. The Odin Project focuses more generally on how to write HTML and CSS. These courses might also lead to creating workshops at the library to educate patrons on digital literacy.</td>
+    <td>Library Carpentry, The Odin Project, [Library’s Name]</td>
+    <td>A digital portfolio of items</td>
+    <td>January - May</td>
   </tr>
   <tr>
     <td>Graduate from the University of North Carolina at Greensboro (UNCG) with my MLIS</td>
