@@ -84,25 +84,25 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
     <th>Timeline???</th>
   </tr>
   <tr>
-    <td>Work as a Librarian 1.</td>
-    <td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If my job search in 2022 was successful, I will be working as a Librarian 1 at this time. I will use my first year as a Librarian 1 to get settled in my new town and new position. I will look for support from my coworkers and patrons. In my first year as a Librarian 1, I will begin drafting a list of ideas for programming and partnerships with the local community. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
-    <td>[Library’s Name], [Town Name], [Local Organizations]</td>
-    <td>A rough draft of programming ideas, rapport with coworkers</td>
-    <td>January - December</td>
+    <td>Dicta summo signiferumque cu pri</td>
+    <td> Lorem ipsum dolor sit amet, persius convenire hendrerit nec at, impedit feugait pertinax mei ex. Ne erant reformidans sed. Blandit forensibus ex est, has repudiandae instructior eu, ut qui dicant accusamus ullamcorper. Qui an cetero placerat phaedrum, mel alia sale at. No pro ferri apeirian urbanitas, eos an unum detracto periculis, eos illum referrentur consequuntur at.</td>
+    <td> Cu cum viris latine dignissim, ius populo legendos ad.</td>
+    <td> Cu cum viris latine dignissim, ius populo legendos ad.</td>
+    <td>Dicta summo</td>
   </tr>
   <tr>
-    <td>Enroll in a self-paced technology course, using Library Carpentry or the Odin Project</td>
-    <td>As of October 2021, I am interested in learning about the intersection of libraries and technology. I would like to use my role as a Librarian 1 to learn how I can apply technology to my new position. To achieve this goal, I will enroll in a self-paced course using Library Carpentry or the Odin Project. Library Carpentry tailors their courses specifically to librarians. The Odin Project focuses more generally on how to write HTML and CSS. These courses might also lead to creating workshops at the library to educate patrons on digital literacy.</td>
-    <td>Library Carpentry, The Odin Project, [Library’s Name]</td>
-    <td>A digital portfolio of items</td>
-    <td>January - May</td>
+    <td>Dicta summo signiferumque cu pri</td>
+    <td> Lorem ipsum dolor sit amet, persius convenire hendrerit nec at, impedit feugait pertinax mei ex. Ne erant reformidans sed. Blandit forensibus ex est, has repudiandae instructior eu, ut qui dicant accusamus ullamcorper. Qui an cetero placerat phaedrum, mel alia sale at. No pro ferri apeirian urbanitas, eos an unum detracto periculis, eos illum referrentur consequuntur at.</td>
+    <td> Cu cum viris latine dignissim, ius populo legendos ad.</td>
+    <td> Cu cum viris latine dignissim, ius populo legendos ad.</td>
+    <td>Dicta summo</td>
   </tr>
   <tr>
-    <td>Graduate from the University of North Carolina at Greensboro (UNCG) with my MLIS</td>
-    <td>As of October 2021, I am halfway through my last semester. I will continue to seek support from my professors and classmates to ensure that I am able to complete my coursework and capstone by December, 2021.</td>
-    <td> Dr. Depolt, Dr. Bird</td>
-    <td>MLIS</td>
-    <td>December</td>
+    <td>Dicta summo signiferumque cu pri</td>
+    <td> Lorem ipsum dolor sit amet, persius convenire hendrerit nec at, impedit feugait pertinax mei ex. Ne erant reformidans sed. Blandit forensibus ex est, has repudiandae instructior eu, ut qui dicant accusamus ullamcorper. Qui an cetero placerat phaedrum, mel alia sale at. No pro ferri apeirian urbanitas, eos an unum detracto periculis, eos illum referrentur consequuntur at.</td>
+    <td> Cu cum viris latine dignissim, ius populo legendos ad.</td>
+    <td> Cu cum viris latine dignissim, ius populo legendos ad.</td>
+    <td>Dicta summo</td>
   </tr>
 </table>
 
