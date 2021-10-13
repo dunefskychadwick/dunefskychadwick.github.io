@@ -190,7 +190,7 @@ The plans in place for this five year plan will provide a framework for my futur
   <tr>
     <td>Create workshops on digital literacy, to be used both in my public library and libraries nationally</td>
     <td>As a continuation from the courses I enrolled in 2023, I will create workshops on educating patrons on digital literacy. I will also use this opportunity to create a framework for these workshops that can be used across public libraries nationwide. I will seek partnerships and collaboration with other library institutions to ensure that these workshops are designed well.</td>
-    <td>[Library Name], collaboration with other libraries.</td>
+    <td>[Library Name], collaboration with other libraries</td>
     <td>Digital literacy workshops</td>
     <td>January - December</td>
   </tr>
