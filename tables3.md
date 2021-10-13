@@ -180,7 +180,7 @@ The plans in place for this five year plan will provide a framework for my futur
 
 ----------------------------------------
 
-<h2>Year 4: 2024</h2>
+<h2>Year 5: 2025</h2>
 
 <table style="width:100%">
   <tr>
@@ -198,11 +198,11 @@ The plans in place for this five year plan will provide a framework for my futur
     <td>January - December</td>
   </tr>
   <tr>
-    <td>Partner with the local community and design a library exhibit</td>
-    <td>I will partner with the local history society if one exists and seek ways to promote specific moments in the local town’s history. These efforts will ultimately culminate in creating an exhibit within the library to educate patrons on a specific topic or moment in the town’s history. This opportunity will create a partnership with the town’s patrons and will hopefully create future collaborations that can identify additional areas of historical interest for advocacy. This goal will likely not be accomplished entirely within 2024 and will be a long-term goal stretched for the entirety of my career as a librarian.</td>
-    <td>[Local history society], [Library Name]</td>
-    <td>An exhibit in [Library Name]</td>
-    <td>August - December</td>
+    <td>Cross train in the collections and IT department at the library</td>
+    <td>I will reach out to other library staff within my system and request that I train in their departments as well. I will use this opportunity to begin transitioning into a Librarian 2 position. By training in other departments, my skill set will expand and allow me to gain a better understanding of the wide diversity of systems in place that make up a library.</td>
+    <td>Collections department, IT department, [Library Name]</td>
+    <td>New skills gained from cross training</td>
+    <td>January - September</td>
   </tr>
   <tr>
     <td>Partner with the local LGBTQIA+ center and advocate for LGBTQIA+ issues within the library</td>
