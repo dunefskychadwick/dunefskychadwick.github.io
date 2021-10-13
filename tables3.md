@@ -4,8 +4,7 @@ title: PLO 7
 subtitle: Communicate and collaborate with colleagues and communities. [Communication and Collaboration]
 ---
 
-<h1>Five Year Plan</h1>
-
+<h1 align="center"> Title </h1>
 -----------------------------------------------------
 
 **5 Year Goal - Find a Librarian 2 Position**
