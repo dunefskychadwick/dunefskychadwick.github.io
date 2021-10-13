@@ -11,6 +11,8 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
     <th>Company</th>
     <th>Contact</th>
     <th>Country</th>
+    <th>Test1</th>
+    <th>Test2</th>
   </tr>
   <tr>
     <td>Complete my practicum with Duke University’s AUX Department.</td>
@@ -27,6 +29,12 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
     <td>As of October 2021, I am halfway through my last semester. I will continue to seek support from my professors and classmates to ensure that I am able to complete my coursework and capstone by December, 2021.</td>
     <td> Dr. Depolt, Dr. Bird</td>
   </tr>
+  <tr>
+    <td>Duke University Libraries, Dr. Depolt</td>
+  </tr>
+  <tr>
+    <td>Two artifacts (two usability tests)</td>
+  <tr>
 </table>
 
 ----------------------------------------
@@ -36,6 +44,8 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
     <th>Company</th>
     <th>Contact</th>
     <th>Country</th>
+    <th>Test1</th>
+    <th>Test2</th>
   </tr>
   <tr>
     <td>Complete my internship with Wake County Public Libraries (WCPL)</td>
@@ -52,4 +62,10 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
     <td>In August 2022, I will talk to my manager about transitioning from an intern to a library assistant. If I am not offered this position, I will apply for Librarian 1 positions nationally. For the latter, I will seek advice and support from my manager at WCPL as I shift into a Librarian 1 position.  For this five-year plan, I will assume that I will be looking for Librarian 1 positions at this time.</td>
     <td>WCPL, <a href="https://inalj.com/">inalj</a></td>
   </tr>
+  <tr>
+    <td>Duke University Libraries, Dr. Depolt</td>
+  </tr>
+  <tr>
+    <td>Two artifacts (two usability tests)</td>
+  <tr>
 </table>
