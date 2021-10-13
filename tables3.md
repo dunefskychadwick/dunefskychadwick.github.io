@@ -1,7 +1,7 @@
 ---
-layout: base
-title: PLO
-subtitle:
+layout: default
+title: PLO 7
+subtitle: Communicate and collaborate with colleagues and communities. [Communication and Collaboration]
 ---
 
 <h2>Year 1: 2021</h2>
