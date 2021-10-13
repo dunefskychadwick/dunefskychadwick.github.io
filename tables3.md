@@ -4,6 +4,15 @@ title: PLO 7
 subtitle: Communicate and collaborate with colleagues and communities. [Communication and Collaboration]
 ---
 
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
+
+<h1>Five Year Plan</h1>
 
 -----------------------------------------------------
 
