@@ -23,11 +23,12 @@ The plans in place for this five year plan will provide a framework for my futur
 -----------------------------------------------------
 
 **Steps to Complete My Five Year Plan**
-1. Complete my internship at WCPL.
-2. Transition into a Librarian 1 role.
-3. Create partnerships with the local community.
-4. Bring local history and LBGTQIA+ issues into the public library that I will be working at.
-5. Transition into a Librarian 2 role.
+1. Graduate from UNCG.
+2. Complete my internship at WCPL.
+3. Transition into a Librarian 1 role.
+4. Create partnerships with the local community.
+5. Bring local history and LBGTQIA+ issues into the public library that I will be working at.
+6. Transition into a Librarian 2 role.
 
 -----------------------------------------------------
 
