@@ -25,7 +25,7 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
     <td>Attend the North Carolina Library Association Biennial Conference (NCLA) as a student</td>
     <td> My manager at my internship with Wake County Public Libraries paid for my conference fee this year. I intend on attending the virtual conference on October 15th and network with fellow librarians.</td>
     <td>NCLA, Wake County Public Libraries</td>
-    <td> informational interviews scheduled</td>
+    <td> Informational interviews scheduled</td>
     <td>October</td>
   </tr>
   <tr>
