@@ -98,11 +98,11 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
     <td>January - May</td>
   </tr>
   <tr>
-    <td>Dicta summo signiferumque cu pri</td>
-    <td> Lorem ipsum dolor sit amet, persius convenire hendrerit nec at, impedit feugait pertinax mei ex. Ne erant reformidans sed. Blandit forensibus ex est, has repudiandae instructior eu, ut qui dicant accusamus ullamcorper. Qui an cetero placerat phaedrum, mel alia sale at. No pro ferri apeirian urbanitas, eos an unum detracto periculis, eos illum referrentur consequuntur at.</td>
-    <td> Cu cum viris latine dignissim, ius populo legendos ad.</td>
-    <td> Cu cum viris latine dignissim, ius populo legendos ad.</td>
-    <td>Dicta summo</td>
+    <td>Join the [state]’s public library association and become an active member of a committee</td>
+    <td>I will join my state’s public library association and become an active member. I will become involved in advocating for my state’s public libraries and advocating for librarianship. I will also become a mentor to new librarians, through this organization.</td>
+    <td>[State]’s public library association</td>
+    <td>A public library association membership, a title in a committee</td>
+    <td>January - March</td>
   </tr>
 </table>
 
