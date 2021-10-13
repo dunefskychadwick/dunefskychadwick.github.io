@@ -11,8 +11,8 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
     <th>Company</th>
     <th>Contact</th>
     <th>Country</th>
-    <th>Test1</th>
-    <th>Test2</th>
+    <th>Country</th>
+    <th>Country</th>
   </tr>
   <tr>
     <td>Complete my practicum with Duke University’s AUX Department.</td>
