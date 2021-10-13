@@ -77,11 +77,11 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
 
 <table style="width:100%">
   <tr>
-    <th>Goals</th>
-    <th> Strategies</th>
-    <th>Resources</th>
-    <th>Evidence of Completion</th>
-    <th>Timeline???</th>
+    <th>Lorem ipsum 1</th>
+    <th>Lorem ipsum 2</th>
+    <th>Lorem ipsum 3</th>
+    <th>Lorem ipsum 4</th>
+    <th>Lorem ipsum 5</th>
   </tr>
   <tr>
     <td>Dicta summo signiferumque cu pri</td>
