@@ -177,7 +177,7 @@ The plans in place for this five year plan will provide a framework for my futur
 
 ----------------------------------------
 
-<h2>Year 5: 2025</h2>
+<h2>Year 4: 2024</h2>
 
 <table style="width:100%">
   <tr>
@@ -188,25 +188,25 @@ The plans in place for this five year plan will provide a framework for my futur
     <th>Timeline</th>
   </tr>
   <tr>
-    <td>Create workshops on digital literacy, to be used both in my public library and libraries nationally</td>
-    <td>As a continuation from the courses I enrolled in 2023, I will create workshops on educating patrons on digital literacy. I will also use this opportunity to create a framework for these workshops that can be used across public libraries nationwide. I will seek partnerships and collaboration with other library institutions to ensure that these workshops are designed well.</td>
-    <td>[Library Name], collaboration with other libraries.</td>
-    <td>Digital literacy workshops</td>
+    <td>Investigate [topic] and publish a journal article in [journal name]</td>
+    <td>In my second year as a Librarian 1, I will have identified trends and patterns in my public library. I will use these trends and patterns to write a journal article, to officially be submitted to a publication. This article will also be an opportunity to present at my state’s public library association. I will seek support from both my public library and my state’s public library association in writing this article. I might look for a co-author and use this opportunity to segue into writing an article on trends within public libraries nationally.</td>
+    <td>[State]’s public library association, [Library’s Name], [Co-Author], [Journal Publication]</td>
+    <td>A published journal article</td>
+    <td>January - August</td>
+  </tr>
+  <tr>
+    <td>Partner with the local community and design a library exhibit</td>
+    <td>I will partner with the local history society if one exists and seek ways to promote specific moments in the local town’s history. These efforts will ultimately culminate in creating an exhibit within the library to educate patrons on a specific topic or moment in the town’s history. This opportunity will create a partnership with the town’s patrons and will hopefully create future collaborations that can identify additional areas of historical interest for advocacy. This goal will likely not be accomplished entirely within 2024 and will be a long-term goal stretched for the entirety of my career as a librarian.</td>
+    <td>[Local history society], [Library Name]</td>
+    <td>An exhibit in [Library Name]</td>
+    <td>August - December</td>
+  </tr>
+  <tr>
+    <td>Partner with the local LGBTQIA+ center and advocate for LGBTQIA+ issues within the library</td>
+    <td>I will partner with the local LGBTQIA+ center, if one exists. This partnership will create opportunities in the library to create safe spaces for LGBTQIA+ individuals and to advocate for policy changes in the library’s collection development plan. I will also seek support from the LGBTQIA+ center in creating programming and events. This goal will likely not be accomplished entirely within 2024 and will be a long-term goal stretched for the entirety of my career as a librarian.</td>
+    <td>[Local LGBTQIA+ Center], [Library Name], Patrons</td>
+    <td>Changes in policy, new programming and events, a new partnership with the LGBTQIA+ center</td>
     <td>January - December</td>
-  </tr>
-  <tr>
-    <td>Cross train in the collections and IT department at the library</td>
-    <td>I will reach out to other library staff within my system and request that I train in their departments as well. I will use this opportunity to begin transitioning into a Librarian 2 position. By training in other departments, my skill set will expand and allow me to gain a better understanding of the wide diversity of systems in place that make up a library.</td>
-    <td>Collections department, IT department, [Library Name]/td>
-    <td>New skills gained from cross training</td>
-    <td>January - September</td>
-  </tr>
-  <tr>
-    <td>Apply for Librarian 2 positions</td>
-    <td>After cross training in other departments, I will begin applying for Librarian 2 positions both within my system and libraries nationwide. I will seek support from my coworkers and other departments as I transition into this new managerial position.</td>
-    <td>[Library Name], <a href="https://inalj.com/">inalj</a></td>
-    <td>A Librarian 2 position</td>
-    <td>December 2025 - March 2026</td>
   </tr>
 </table>
 
