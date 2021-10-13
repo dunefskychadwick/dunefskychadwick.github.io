@@ -151,25 +151,25 @@ The plans in place for this five year plan will provide a framework for my futur
     <th>Timeline</th>
   </tr>
   <tr>
-    <td>Work as a Librarian 1</td>
-    <td>If my job search in 2022 was successful, I will be working as a Librarian 1 at this time. I will use my first year as a Librarian 1 to get settled in my new town and new position. I will look for support from my coworkers and patrons. In my first year as a Librarian 1, I will begin drafting a list of ideas for programming and partnerships with the local community.</td>
-    <td>[Library’s Name], [Town Name], [Local Organizations]</td>
-    <td>A rough draft of programming ideas, rapport with coworkers</td>
+    <td>Investigate [topic] and publish a journal article in [journal name]</td>
+    <td>In my second year as a Librarian 1, I will have identified trends and patterns in my public library. I will use these trends and patterns to write a journal article, to officially be submitted to a publication. This article will also be an opportunity to present at my state’s public library association. I will seek support from both my public library and my state’s public library association in writing this article. I might look for a co-author and use this opportunity to segue into writing an article on trends within public libraries nationally.</td>
+    <td>[State]’s public library association, [Library’s Name], [Co-Author], [Journal Publication]</td>
+    <td>A published journal article</td>
+    <td>January - August</td>
+  </tr>
+  <tr>
+    <td>Partner with the local community and design a library exhibit</td>
+    <td>I will partner with the local history society if one exists and seek ways to promote specific moments in the local town’s history. These efforts will ultimately culminate in creating an exhibit within the library to educate patrons on a specific topic or moment in the town’s history. This opportunity will create a partnership with the town’s patrons and will hopefully create future collaborations that can identify additional areas of historical interest for advocacy. This goal will likely not be accomplished entirely within 2024 and will be a long-term goal stretched for the entirety of my career as a librarian.</td>
+    <td>[Local history society], [Library Name]</td>
+    <td>An exhibit in [Library Name]</td>
+    <td>August - December</td>
+  </tr>
+  <tr>
+    <td>Partner with the local LGBTQIA+ center and advocate for LGBTQIA+ issues within the library</td>
+    <td>I will partner with the local LGBTQIA+ center, if one exists. This partnership will create opportunities in the library to create safe spaces for LGBTQIA+ individuals and to advocate for policy changes in the library’s collection development plan. I will also seek support from the LGBTQIA+ center in creating programming and events. This goal will likely not be accomplished entirely within 2024 and will be a long-term goal stretched for the entirety of my career as a librarian.</td>
+    <td>[Local LGBTQIA+ Center], [Library Name], Patrons</td>
+    <td>Changes in policy, new programming and events, a new partnership with the LGBTQIA+ center</td>
     <td>January - December</td>
-  </tr>
-  <tr>
-    <td>Enroll in a self-paced technology course, using Library Carpentry or the Odin Project</td>
-    <td>As of October 2021, I am interested in learning about the intersection of libraries and technology. I would like to use my role as a Librarian 1 to learn how I can apply technology to my new position. To achieve this goal, I will enroll in a self-paced course using Library Carpentry or the Odin Project. Library Carpentry tailors their courses specifically to librarians. The Odin Project focuses more generally on how to write HTML and CSS. These courses might also lead to creating workshops at the library to educate patrons on digital literacy.</td>
-    <td>Library Carpentry, The Odin Project, [Library’s Name]</td>
-    <td>A digital portfolio of items created from these courses</td>
-    <td>January - May</td>
-  </tr>
-  <tr>
-    <td>Join the [state]’s public library association and become an active member of a committee</td>
-    <td>I will join my state’s public library association and become an active member. I will become involved in advocating for my state’s public libraries and advocating for librarianship. I will also become a mentor to new librarians, through this organization.</td>
-    <td>[State]’s public library association</td>
-    <td>A public library association membership, a title in a committee</td>
-    <td>January - March</td>
   </tr>
 </table>
 
