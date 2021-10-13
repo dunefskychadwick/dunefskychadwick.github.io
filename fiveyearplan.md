@@ -54,14 +54,14 @@ The plans in place for this five year plan will provide a framework for my futur
     <td>August - December</td>
   </tr>
   <tr>
-    <td>Attend the North Carolina Library Association Biennial Conference (NCLA) as a student</td>
-    <td> My manager at my internship with Wake County Public Libraries paid for my conference fee this year. I intend on attending the virtual conference on October 15th and network with fellow librarians.</td>
-    <td>NCLA, Wake County Public Libraries</td>
+    <td>Attend the NCLA as a student</td>
+    <td>My manager at my internship with Wake County Public Libraries paid for my conference fee this year. I will attend the virtual conference on October 15th and network with fellow librarians.</td>
+    <td>NCLA, WCPL</td>
     <td> Informational interviews scheduled</td>
     <td>October</td>
   </tr>
   <tr>
-    <td>Graduate from the University of North Carolina at Greensboro (UNCG) with my MLIS</td>
+    <td>Graduate from UNCG with my MLIS</td>
     <td>As of October 2021, I am halfway through my last semester. I will continue to seek support from my professors and classmates to ensure that I am able to complete my coursework and capstone by December, 2021.</td>
     <td> Dr. Depolt, Dr. Bird</td>
     <td>MLIS</td>
@@ -82,13 +82,13 @@ The plans in place for this five year plan will provide a framework for my futur
   </tr>
   <tr>
     <td>Complete my internship with Wake County Public Libraries (WCPL)</td>
-    <td>My internship will conclude in May, 2022. I plan on seeking more opportunities to expand my skill set for future public library jobs. I will ask my manager and WCPL librarians about programming and shadowing opportunities. I will also look for opportunities to do informational interviews so I am better prepared to transition into a librarian role when my internship ends.</td>
+    <td>My internship will conclude in May, 2022. Before my internship ends, I plan on seeking more opportunities to expand my skill set for future public library jobs. I will ask my manager and WCPL librarians about programming and shadowing opportunities. I will also look for opportunities to do informational interviews so I am better prepared to transition into a librarian role when my internship ends.</td>
     <td>WCPL</td>
     <td>Experience as a library assistant</td>
     <td>September 2021 - August 2022</td>
   </tr>
   <tr>
-    <td>Present at the Society of North Carolina Archivists’ (SNCA) 2022 conference</td>
+    <td>Present at the SNCA 2022 conference</td>
     <td>In my Special Collections class at UNCG, I wrote a paper on the influence of power dynamics in organizational memory. I intend on presenting this paper at the SNCA 2022 conference. I will reach out to Dr. Post, my professor for this course, for guidance and support through the process.</td>
     <td>SNCA, Dr. Post</td>
     <td>A presentation (a Powerpoint or a physical poster)</td>
