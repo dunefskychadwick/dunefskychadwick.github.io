@@ -78,14 +78,14 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
 <table style="width:100%">
   <tr>
     <th>Goals</th>
-    <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Strategies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+    <th> Strategies</th>
     <th>Resources</th>
     <th>Evidence of Completion</th>
     <th>Timeline???</th>
   </tr>
   <tr>
     <td>Work as a Librarian 1.</td>
-    <td>If my job search in 2022 was successful, I will be working as a Librarian 1 at this time. I will use my first year as a Librarian 1 to get settled in my new town and new position. I will look for support from my coworkers and patrons. In my first year as a Librarian 1, I will begin drafting a list of ideas for programming and partnerships with the local community.</td>
+    <td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If my job search in 2022 was successful, I will be working as a Librarian 1 at this time. I will use my first year as a Librarian 1 to get settled in my new town and new position. I will look for support from my coworkers and patrons. In my first year as a Librarian 1, I will begin drafting a list of ideas for programming and partnerships with the local community. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
     <td>[Library’s Name], [Town Name], [Local Organizations]</td>
     <td>A rough draft of programming ideas, rapport with coworkers</td>
     <td>January - December</td>
