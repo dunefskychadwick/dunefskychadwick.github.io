@@ -205,11 +205,11 @@ The plans in place for this five year plan will provide a framework for my futur
     <td>January - September</td>
   </tr>
   <tr>
-    <td>Partner with the local LGBTQIA+ center and advocate for LGBTQIA+ issues within the library</td>
-    <td>I will partner with the local LGBTQIA+ center, if one exists. This partnership will create opportunities in the library to create safe spaces for LGBTQIA+ individuals and to advocate for policy changes in the library’s collection development plan. I will also seek support from the LGBTQIA+ center in creating programming and events. This goal will likely not be accomplished entirely within 2024 and will be a long-term goal stretched for the entirety of my career as a librarian.</td>
-    <td>[Local LGBTQIA+ Center], [Library Name], Patrons</td>
-    <td>Changes in policy, new programming and events, a new partnership with the LGBTQIA+ center</td>
-    <td>January - December</td>
+    <td>Apply for Librarian 2 positions</td>
+    <td>After cross training in other departments, I will begin applying for Librarian 2 positions both within my system and libraries nationwide. I will seek support from my coworkers and other departments as I transition into this new managerial position.</td>
+    <td>[Library Name],<a href="https://inalj.com/">inalj</a></td>
+    <td>A Librarian 2 position</td>
+    <td>December 2025 - March 2026</td>
   </tr>
 </table>
 
