@@ -1,10 +1,10 @@
 ---
 layout: default
-title: PLO 7
-subtitle: Communicate and collaborate with colleagues and communities. [Communication and Collaboration]
+title: Five Year Plan
+subtitle:
 ---
 
-<h1 align="center"> Title </h1>
+<h1 align="center"> Five Year Plan </h1>
 
 -----------------------------------------------------
 
@@ -170,6 +170,43 @@ The plans in place for this five year plan will provide a framework for my futur
     <td>[Local LGBTQIA+ Center], [Library Name], Patrons</td>
     <td>Changes in policy, new programming and events, a new partnership with the LGBTQIA+ center</td>
     <td>January - December</td>
+  </tr>
+</table>
+
+----------------------------------------
+
+----------------------------------------
+
+<h2>Year 5: 2025</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Goals</th>
+    <th>Strategies</th>
+    <th>Resources</th>
+    <th>Evidence of Completion</th>
+    <th>Timeline</th>
+  </tr>
+  <tr>
+    <td>Create workshops on digital literacy, to be used both in my public library and libraries nationally</td>
+    <td>As a continuation from the courses I enrolled in 2023, I will create workshops on educating patrons on digital literacy. I will also use this opportunity to create a framework for these workshops that can be used across public libraries nationwide. I will seek partnerships and collaboration with other library institutions to ensure that these workshops are designed well.</td>
+    <td>[Library Name], collaboration with other libraries.</td>
+    <td>Digital literacy workshops</td>
+    <td>January - December</td>
+  </tr>
+  <tr>
+    <td>Cross train in the collections and IT department at the library</td>
+    <td>I will reach out to other library staff within my system and request that I train in their departments as well. I will use this opportunity to begin transitioning into a Librarian 2 position. By training in other departments, my skill set will expand and allow me to gain a better understanding of the wide diversity of systems in place that make up a library.</td>
+    <td>Collections department, IT department, [Library Name]/td>
+    <td>New skills gained from cross training</td>
+    <td>January - September</td>
+  </tr>
+  <tr>
+    <td>Apply for Librarian 2 positions</td>
+    <td>After cross training in other departments, I will begin applying for Librarian 2 positions both within my system and libraries nationwide. I will seek support from my coworkers and other departments as I transition into this new managerial position.</td>
+    <td>[Library Name], <a href="https://inalj.com/">inalj</a></td>
+    <td>A Librarian 2 position</td>
+    <td>December 2025 - March 2026</td>
   </tr>
 </table>
 
