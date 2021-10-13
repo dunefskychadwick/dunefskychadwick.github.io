@@ -826,7 +826,7 @@ table tr th {
 }
 
 table tr td:nth-child(1) {
-  width: 50%;
+  width: 40%;
 }
 table tr td:nth-child(2) {
   width: 90%;
