@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: post
 title: PLO 2
-subtitle: Assess and respond to the needs of diverse communities. 
+subtitle: Assess and respond to the needs of diverse communities.
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 2.2 Assessment: Demonstrates the ability to engage in assessment of services, collections, products, user experience, and information technologies and articulates its importance in information provision.
+
+## 2.3 Design: Designs services, collections, products, and information technologies to respond to the needs of diverse communities with an emphasis on user-centered design.
