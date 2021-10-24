@@ -16,10 +16,10 @@ Note: This usability test will be finished this week, after the submission of th
 
 ## 3.4: Apply Evidence to Design Solutions: Identify, describe, propose, implement & assess - criteria for levels.
 
-I will be creating an environmental scan in my field experience after the usability test is officially finished this week. I will include how this environmental scan met this PLO once this is finished, before the final draft of this website is due.
+I will be creating an environmental scan in my field experience after the usability test is officially finished this week. I will include how this environmental scan met this PLO once this is finished, before the final draft of this website is due. Please let me know if this artifact will not work for this PLO.  
 
 [Click here to view the environmental scan.]({{dunefskychadwick.github.io}}/assets/pdfs/applyevidence.pdf)  
 
 -----------------------------------------------------
 
-This page was a brief reflection of my field experience. To read a full reflection, please click the "Field Experience" tab in the top right corner of this website.
+This page is a brief reflection of my field experience. To read a full reflection, please click the "Field Experience" tab in the top right corner of this website.
