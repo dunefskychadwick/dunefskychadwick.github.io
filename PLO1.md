@@ -16,7 +16,6 @@ This paper is a preliminary discussion on this topic and suggests ways for futur
 [Click here to read the paper.]({{dunefskychadwick.github.io}}/assets/pdfs/knowledgeproduction.pdf)  
 
 
-
 ## 1.7 Professional Ethics: Articulates ethical perspectives on the organization and provision of information with an emphasis on promoting a just and equitable society.
 In collaboration with three students, we created a LibGuide designed to recommend ways that the North Carolina Room in Asheville can expand their collection. My section of the LibGuide focused specifically on LGBTQIA+ individuals in Appalachia. The material within the LibGuide is a collection of LGBTQIA+ resources  tailored to the culture and history of Appalachia.
 
