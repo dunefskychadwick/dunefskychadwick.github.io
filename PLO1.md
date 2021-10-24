@@ -15,7 +15,6 @@ This paper is a preliminary discussion on this topic and suggests ways for futur
 
 [Click here to read the paper.]({{dunefskychadwick.github.io}}/assets/pdfs/knowledgeproduction.pdf)  
 
------------------------------------------------------
 
 
 ## 1.7 Professional Ethics: Articulates ethical perspectives on the organization and provision of information with an emphasis on promoting a just and equitable society.
