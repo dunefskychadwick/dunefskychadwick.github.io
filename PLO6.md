@@ -6,7 +6,9 @@ subtitle: Embrace change to lead organizational innovation. [Leadership, Innovat
 
 ## 6.2 Engages in Strategic Planning: Engages in long term focusing of organizational efforts towards a common mission.
 
-With a group of three students, we created a five year plan to recommend ways the Pack Memorial’s North Carolina Room in Asheville, North Carolina can expand their collection to be more inclusive of Asheville's diverse population. My primary contribution to this five year plan is to consider the development of LGBTQIA+ studies in Appalachia and how these studies can shape the LGBTQIA+ collection at the North Carolina Room. My contributions combined with my group create an effective strategic plan for the North Carolina Room to expand their collection. The Five Year Plan details current research growth, a detailed timeline, and high level activities to successfully complete this major collection overhaul. 
+With a group of three students, we created a five year plan to recommend ways the Pack Memorial’s North Carolina Room in Asheville, North Carolina can expand their collection to be more inclusive of Asheville's diverse population. My primary contribution to this five year plan is to consider the development of LGBTQIA+ studies in Appalachia and how these studies can shape the LGBTQIA+ collection at the North Carolina Room.
+
+My contributions combined with my group create an effective strategic plan for the North Carolina Room to expand their collection. The Five Year Plan details current research growth, a detailed timeline, and high level activities to successfully complete this major collection overhaul. 
 
 [Click here to view the five year plan.]({{dunefskychadwick.github.io}}/assets/pdfs/strategicplanning.pdf)  
 
