@@ -4,4 +4,10 @@ title: PLO 5
 subtitle: Advocate for public policies, laws, organizations, and resources that promote a just information society [Advocacy and Public Policy]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 5.3 Advocacy: Advocate for your organization and the Library and Information Science Professions.
+
+[Click here to view the lesson plan.]({{dunefskychadwick.github.io}}/assets/pdfs/advocacy.pdf)  
+
+## 5.5 Advocate for equity and access for your community, particularly for historically marginalized groups to overcome existing power structures.
+
+[Click here to view the lesson plan.]({{dunefskychadwick.github.io}}/assets/videos/advocateforequity.mp4)  
