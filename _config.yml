@@ -23,8 +23,9 @@ navbar-links:
     - PLO 5: "PLO5"
     - PLO 6: "PLO6"
     - PLO 7: "PLO7"
-  Resume: "resume"
-  Cover Letter: "coverletter"
+  Cover Letter and Resume:
+    - Cover Letter: "coverletter"
+    - Resume: "resume"
   Five Year Plan: "fiveyearplan"
 
 # --- Logo --- #
