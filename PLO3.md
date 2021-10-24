@@ -14,4 +14,6 @@ subtitle: Analyze problems and propose solutions through the application of evid
 
 [Click here to view the environmental scan.]({{dunefskychadwick.github.io}}/assets/pdfs/assessment.pdf)  
 
+-----------------------------------------------------
+
 This page was a brief reflection of my practicum experience. To read a full reflection, please click the "Field Experience" tab in the top right corner of this website.

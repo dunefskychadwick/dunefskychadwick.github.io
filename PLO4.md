@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: post
 title: PLO 4
 subtitle: Utilize instructional strategies and communication in both formal and informal interactions to increase information competence. [Instructional Communication]
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 4.1 Identify instructional needs: Gather evidence, prioritizes needs and determines which problems can actually be addressed through instruction.
+
+## 4.2 Design Instruction: Engage in design thinking to plan lessons with reasonable instructional goals and all content/activities are aligned with instructional goals)
