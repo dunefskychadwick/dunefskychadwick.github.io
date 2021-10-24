@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cover Letter
-subtitle: Sample cover letter, used for a previous job application.  
+subtitle: 
 ---
 
 This cover letter was written for a Digital Project Assistant position with The Enoch Pratt Free Library in Baltimore, Maryland.
