@@ -10,7 +10,7 @@ For my field experience, I worked with the Assessment & User Experience departme
 
 The interview demonstrates that both through the field experience and the interview itself that I have demonstrated the ability to effectively engage in oral communication. The reflection serves as a written record of the SWOT analysis I covered in my interview.
 
-A recording of the mid-semester interview has been submitted directly to my professor supervising my field experience.
+A recording of the mid-semester interview has been submitted directly to the professor supervising my field experience.
 
 [Click here to view the mid-semester interview reflection.]({{dunefskychadwick.github.io}}/assets/pdfs/oralcommunication.pdf)  
 
