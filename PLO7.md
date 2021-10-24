@@ -6,6 +6,10 @@ subtitle: Communicate and collaborate with colleagues and communities. [Communic
 
 ## 7.1 Oral communication : Effectively engage in oral communication in professional contexts.
 
+For my field experience, I worked with the Assessment & User Experience department at Duke University Libraries. This reflection was created after a mid-semester interview with my field experience supervisor. Both the reflection and the interview used a SWOT Analysis Matrix to discuss my strengths, weaknesses, opportunities, and threats from the first half of my field experience.
+
+The interview demonstrates that both through the field experience and the interview itself that I have demonstrated the ability to effectively engage in oral communication. The reflection serves as a written record of the SWOT analysis I covered in my interview. 
+
 A recording of the mid-semester interview has been submitted directly to my professor supervising my field experience.
 
 [Click here to view the mid-semester interview reflection.]({{dunefskychadwick.github.io}}/assets/pdfs/oralcommunication.pdf)  
