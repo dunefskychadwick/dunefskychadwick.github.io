@@ -14,12 +14,12 @@ This paper is a preliminary discussion on this topic and suggests ways for futur
 
 
 ## 1.7 Professional Ethics: Articulates ethical perspectives on the organization and provision of information with an emphasis on promoting a just and equitable society.
-In collaboration with three students, we created a libguide designed to recommend ways that the North Carolina Room in Asheville can expand their collection. My section of the libguide focused specifically on LGBTQIA+ individuals in Appalachia. The material within the libguide is a collection of LGBTQIA+ resources  tailored to the culture and history of Appalachia.
+In collaboration with three students, we created a LibGuide designed to recommend ways that the North Carolina Room in Asheville can expand their collection. My section of the LibGuide focused specifically on LGBTQIA+ individuals in Appalachia. The material within the LibGuide is a collection of LGBTQIA+ resources  tailored to the culture and history of Appalachia.
 
-I created my section to recommend the North Carolina Room to expand their collection to reflect the local LGBTQIA+ community. The items featured in the libguide emphasize the resources in Appalachia that reflect the ongoing trend of increasing acceptance of LGBTQIA+ individuals. LGBTQIA+ individuals in Appalachia often face stigma and discrimination for their identity.
+I created my section to recommend the North Carolina Room to expand their collection to reflect the local LGBTQIA+ community. The items featured in the LibGuide emphasize the resources in Appalachia that reflect the ongoing trend of increasing acceptance of LGBTQIA+ individuals. LGBTQIA+ individuals in Appalachia often face stigma and discrimination for their identity.
 
 New language is constantly being developed and added to the American lexicon to affirm a diversity of identities. In Appalachia, LGBTQIA+ youth are adapting and adjusting to their local culture, to ensure they can create safe spaces to discuss LGBTQIA+ topics.
 
-This libguide is intended to be part of a broader discussion in exploring the resources available within Appalachia to explore LGBTQIA+ identity.
+This LibGuide is intended to be part of a broader discussion in exploring the resources available within Appalachia to explore LGBTQIA+ identity.
 
-[Click here to view the libguide.]({{dunefskychadwick.github.io}}/assets/libguides/professionalethics.html)  
+[Click here to view the LibGuide.]({{dunefskychadwick.github.io}}/assets/libguides/professionalethics.html)  
