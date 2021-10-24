@@ -6,8 +6,8 @@ subtitle: Advocate for public policies, laws, organizations, and resources that 
 
 ## 5.3 Advocacy: Advocate for your organization and the Library and Information Science Professions.
 
-[Click here to view the lesson plan.]({{dunefskychadwick.github.io}}/assets/pdfs/advocacy.pdf)  
+[Click here to view the disaster plan.]({{dunefskychadwick.github.io}}/assets/pdfs/advocacy.pdf)  
 
 ## 5.5 Advocate for equity and access for your community, particularly for historically marginalized groups to overcome existing power structures.
 
-[Click here to view the lesson plan.]({{dunefskychadwick.github.io}}/assets/videos/advocateforequity.mp4)  
+[Click here to view the video.]({{dunefskychadwick.github.io}}/assets/videos/advocateforequity.mp4)  
