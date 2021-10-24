@@ -17,4 +17,4 @@ The handbook demonstrates information provision in discussing how libraries and 
 
 
 
-[Click here to view the libguide.]({{dunefskychadwick.github.io}}/assets/libguides/collectionplan.html)  
+[Click here to view the libguide.]({{dunefskychadwick.github.io}}/assets/libguides/design.html)  
