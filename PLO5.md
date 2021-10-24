@@ -10,4 +10,4 @@ subtitle: Advocate for public policies, laws, organizations, and resources that 
 
 ## 5.5 Advocate for equity and access for your community, particularly for historically marginalized groups to overcome existing power structures.
 
-[Click here to view the video.]({{dunefskychadwick.github.io}}/assets/videos/advocateforequity.mp4)  
+[Click here to view the video.](https://youtu.be/FQAAM1_YAvQ)  
