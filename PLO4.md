@@ -15,5 +15,11 @@ Our toolkit demonstrates this PLO's goal in determining how we can bring perform
 
 ## 4.2 Design Instruction: Engage in design thinking to plan lessons with reasonable instructional goals and all content/activities are aligned with instructional goals.
 
+With a fellow UNCG student, we created a lesson plan on advocating for archives. Our lesson plan featured two artifacts, a written out lesson plan and a presentation. The presentation begins with a brief presentation on what advocacy means in the context of archives. Throughout this part of the presentation, we used discussion questions to engage with the class.
+
+The second part of the presentation was a breakout session, with five case studies for each group to select from. We engaged in design thinking to ensure that this presentation effectively educated students in our class on advocacy.
+
+Our lesson plan was carefully created so each part of our presentation included a form of engagement. We reflected on how each of our case studies for our breakout session would align with our goal on educating advocacy in archives. 
+
 [Click here to view the lesson plan.]({{dunefskychadwick.github.io}}/assets/pdfs/designinstruction(lessonplan).pdf)  
 [Click here to view the presentation.]({{dunefskychadwick.github.io}}/assets/pdfs/designinstruction(presentation).pdf)  
