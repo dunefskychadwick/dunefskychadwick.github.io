@@ -19,7 +19,7 @@ With a fellow UNCG student, we created a lesson plan on advocating for archives.
 
 The second part of the presentation was a breakout session, with five case studies for each group to select from. We engaged in design thinking to ensure that this presentation effectively educated students in our class on advocacy.
 
-Our lesson plan was carefully created so each part of our presentation included a form of engagement. We reflected on how each of our case studies for our breakout session would align with our goal on educating advocacy in archives. 
+Our lesson plan was carefully created so each part of our presentation included a form of engagement. We reflected on how each of our case studies for our breakout session would align with our goal on educating advocacy in archives.
 
-[Click here to view the lesson plan.]({{dunefskychadwick.github.io}}/assets/pdfs/designinstruction(lessonplan).pdf)  
-[Click here to view the presentation.]({{dunefskychadwick.github.io}}/assets/pdfs/designinstruction(presentation).pdf)  
+[Click here to view the lesson plan.]({{dunefskychadwick.github.io}}/assets/pdfs/designinstruction-lessonplan.pdf)  
+[Click here to view the presentation.]({{dunefskychadwick.github.io}}/assets/pdfs/designinstruction-presentation.pdf)  
