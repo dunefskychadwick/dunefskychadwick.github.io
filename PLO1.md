@@ -6,7 +6,7 @@ subtitle:  Connect people to information and information technology, particularl
 ## 1.1 Knowledge Production: Articulates a basic understanding of human information needs and behaviors and describes how the many forms of diversity in our society impact information provision.
 In this paper, I explored the relationship of power and memory-making within a company. I discussed how this relationship can negatively affect the development of a company’s archive.
 
-This paper demonstrates how human behavior within a corporate setting changes in reaction to negative power dynamics. The result of this relationship directly shapes how individuals interact with the archive’s collection. The items within the collection may not exist because of this relationship, in fear of censorship or some form of punishment through fear or intimidation. Alternatively, the items might no longer reflect how they looked originally, because of censorship.
+This paper demonstrates how human behavior within a corporate setting changes in reaction to negative power dynamics. The result of this relationship directly shapes how individuals interact with the archive’s collection. The items within the collection may not exist because of this relationship, in fear of censorship or some form of punishment through fear or intimidation. Alternatively, the items might no longer reflect how they looked originally, as a result of censorship.
 
 This paper is a preliminary discussion on this topic and suggests ways for future papers to further investigate how power dynamics impact information provision.
 
