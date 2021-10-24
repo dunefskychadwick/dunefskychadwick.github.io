@@ -26,6 +26,7 @@ navbar-links:
   Cover Letter and Resume:
     - Cover Letter: "coverletter"
     - Resume: "resume"
+  Field Experience: "fieldexperience"
   Five Year Plan: "fiveyearplan"
 
 # --- Logo --- #
