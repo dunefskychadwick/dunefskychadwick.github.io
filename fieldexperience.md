@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Cover Letter
-subtitle: Sample cover letter, not intended for a specific job application. 
+title: Field Experience
+subtitle: This page is a reflection of my field experience with Duke University.
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+I will write this reflection for the final draft of the portfolio. 
