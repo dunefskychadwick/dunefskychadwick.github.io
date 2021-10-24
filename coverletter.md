@@ -4,6 +4,8 @@ title: Cover Letter
 subtitle: Sample cover letter, used for a previous job application.  
 ---
 
+-----------------------------------------------------
+
 This cover letter was written for a Digital Project Assistant position with The Enoch Pratt Free Library in Baltimore, Maryland.
 
 -----------------------------------------------------
@@ -23,5 +25,4 @@ I look forward to hearing from you and performing an interview. I would be excit
 
 
 Sincerely yours,
-
 Chadwick Dunefsky
