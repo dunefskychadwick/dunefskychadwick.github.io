@@ -8,7 +8,7 @@ subtitle: Advocate for public policies, laws, organizations, and resources that 
 
 I created this disaster plan for an imaginary repository in Raleigh, North Carolina. The disaster plan incorporates environmental concerns, unique to Raleigh to create recommendations for this repository. The disaster plan also includes a budget and a disaster response team designed to handle a wide variety of disasters.
 
-sThe facets of this disaster plan demonstrate advocacy for this fictional repository and an understanding of how the recommendations applied within this plan can be used for an actual archive.
+The facets of this disaster plan demonstrate advocacy for this fictional repository and an understanding of how the recommendations applied within this plan can be used for an actual archive.
 
 [Click here to view the disaster plan.]({{dunefskychadwick.github.io}}/assets/pdfs/advocacy.pdf)  
 
