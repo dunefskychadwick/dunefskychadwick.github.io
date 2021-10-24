@@ -24,5 +24,3 @@ New language is constantly being developed and added to the American lexicon to 
 This LibGuide is intended to be part of a broader discussion in exploring the resources available within Appalachia to explore LGBTQIA+ identity.
 
 [Click here to view the LibGuide.]({{dunefskychadwick.github.io}}/assets/libguides/professionalethics.html)  
-
------------------------------------------------------
