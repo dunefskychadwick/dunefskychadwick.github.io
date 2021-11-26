@@ -14,6 +14,10 @@ My contributions combined with my group create an effective strategic plan for t
 
 ## 6.4 Project Management: Leaders plan deliberate steps to execute, monitor, analyze, and report on the progress of a work group charged with the creation of a unique product, service or result in order to deliver the on-time/on-budget results, learning and integration that the project and its stakeholders require.
 
-The artifact for this PLO will not be finished until November 3rd. I will update the portfolio then. I intend on using a group paper from LIS 650 (Leadership and Management in Information Organizations). This paper is a case report on analyzing a fictional work environment and creating recommendations to improve the toxic environment. The paper includes a memo detailing the issues, a case analysis report, and a reflection. Please let me know if this artifact will not work for this PLO.  
+With a group of three students, we were provided a fictional story detailing Penny's complaints about various aspects of her job at her library. We created a page memo recommending ways that Penny can improve her work environment and improve her rapport with her coworkers. This page memo was supplemented with a case analysis report using academic literature to support our recommendations. 
 
-[Click here to view the case report.]({{dunefskychadwick.github.io}}/assets/pdfs/projectmanagement.pdf)  
+This case report and case analysis report demonstrate our aiblity to execute, monitor, and analyze the different elements of Penny's worklife that are contributing to her frustrations. The group aspect satisfies the learning outcome's expectation of creating a unique product that recommends ways that Penny can detect results and integrate our case memo into her daily worklife. 
+
+[Click here to view the page memo.]({{dunefskychadwick.github.io}}/assets/pdfs/projectmanagement1.pdf)  
+[Click here to view the case analysis report.]({{dunefskychadwick.github.io}}/assets/pdfs/projectmanagement2.pdf)  
+

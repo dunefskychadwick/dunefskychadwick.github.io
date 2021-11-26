@@ -18,7 +18,7 @@ A recording of the mid-semester interview has been submitted directly to the pro
 
 This artifact will be uploaded by the end of day on November 29th. I will fill in this PLO after I complete my exit-interview for my field experience. I intend on using the interview and reflection to talk about how I collaborated within Duke University's Libraries to achieve the two artifacts featured on PLO 3 and my field experience reflection.
 
-[Click here to view the exit-interview reflection.]({{dunefskychadwick.github.io}}/assets/pdfs/projectmanagement.pdf)  
+[Click here to view the exit-interview reflection.]({{dunefskychadwick.github.io}}/assets/pdfs/collaborationwithinalibrary(unfinished).pdf)  
 
 -----------------------------------------------------
 
