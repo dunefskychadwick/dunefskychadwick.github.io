@@ -10,7 +10,7 @@ During the first half of my field experience, I collaborated with a student at N
 
 This test effectively demonstrates gathering and evaluating evidence, to create recommendations that will be used for future iterations of the staff directory.
 
-[Click here to view the usability test.]({{dunefskychadwick.github.io}}/assets/pdfs/gatherandevaluateevidence.pdf)  
+[Click here to view the usability test.](https://dukespace.lib.duke.edu/dspace/handle/10161/23965)  
 
 ## 3.4: Apply Evidence to Design Solutions: Identify, describe, propose, implement & assess - criteria for levels.
 
