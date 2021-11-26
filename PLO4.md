@@ -9,7 +9,7 @@ With a group of three UNCG students, we created a toolkit to recommend ways that
 
 Our toolkit demonstrated how her art could be used in varying subject areas within a school, including a drama or a civics course. Since Kirby's art is performative, individuals can only interact with her art if they visit the exhibit in person.
 
-Our toolkit demonstrates this PLO's goal in determining how we can bring performative art to education. The issues Kirby addresses in her art, including gender identity and voting issues, provide intricate and important lessons for any student.
+Our toolkit demonstrates this learning outcome's goal in determining how we can bring performative art to education. The issues Kirby addresses in her art, including gender identity and voting issues, provide intricate and important lessons for any student.
 
 [Click here to view the toolkit.](https://uncgeducationaltoolkit.github.io/index.html)  
 

@@ -22,4 +22,4 @@ This environmental scan effectively demonstrates an ability to identify and prop
 
 -----------------------------------------------------
 
-This page is a brief reflection of my field experience. To read a full reflection, please click the "Field Experience" tab in the top right corner of this website.
+This page is a brief snippet of my field experience. To read a full reflection, please click the "Field Experience" tab in the top right corner of this website.
