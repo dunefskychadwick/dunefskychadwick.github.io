@@ -22,4 +22,4 @@ This artifact will be uploaded by the end of day on November 29th. I will fill i
 
 -----------------------------------------------------
 
-This page is a brief reflection of my field experience. To read a full reflection, please click the "Field Experience" tab in the top right corner of this website.
+This page is a brief snippet of my field experience. To read a full reflection, please click the "Field Experience" tab in the top right corner of this website.
