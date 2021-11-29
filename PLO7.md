@@ -16,9 +16,13 @@ A recording of the mid-semester interview has been submitted directly to the pro
 
 ## 7.3 Collaboration within a Library or Information Organization: Works with others within the organization to achieve meaningful outcomes.
 
-This artifact will be uploaded by the end of day on November 29th. I will fill in this PLO after I complete my exit-interview for my field experience. I intend on using the interview and reflection to talk about how I collaborated within Duke University's Libraries to achieve the two artifacts featured on PLO 3 and my field experience reflection.
+This reflection was created after an exit interview with my field experience supervisor. We primarily discussed my strengths and weaknesses throughout the practicum. We used a SWOT Analysis Matrix and two questions from my practicum supervisor to structure this meeting. 
 
-[Click here to view the exit-interview reflection.]({{dunefskychadwick.github.io}}/assets/pdfs/collaborationwithinalibrary(unfinished).pdf)  
+The interview demonstrates that I have successfully completed my practicum and that I have sufficiently collaborated within a library system, working with my practicum supervisor and other employees within my practicum department. I created two final artifacts with a fellow practicum student, featured on PLO 3, which satisifies the expectation of achieving meaningful outcomes.  
+
+A recording of the mid-semester interview has been submitted directly to the professor supervising my field experience.
+
+[Click here to view the exit-interview reflection.]({{dunefskychadwick.github.io}}/assets/pdfs/collaborationwithinalibrary.pdf)  
 
 -----------------------------------------------------
 
